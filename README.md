@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @rifkiabd
-- 👀 I’m interested in java, javascript, html, php, phyton
-- 🌱 I’m currently learning encryption, web engineering, and software testing
-- 💞️ I’m looking to collaborate on any software project
-- 📫 To reach me, can private message on twitter @abdillahmrifki 
+About Me
+
+Hi, I'm @Rifkiabd, an IT student majoring software engineering with experience in various programming languages including HTML, PHP, Java, Python, and JavaScript. I am always eager to learn new skills and stay up-to-date with the latest technologies in the field. In addition to my technical abilities, I also have experience in search engine optimization (SEO) and love to uncover new insights in the world of technology.
+
+Skills
+
+    HTML
+    PHP
+    Java
+    Python
+    JavaScript
+
+Experience
+
+As a software engineer, I have experience in developing and maintaining web applications using various programming languages. I have also worked on improving the search engine rankings of websites through effective SEO strategies.
+
+Interests
+
+In my free time, I enjoy staying up-to-date with the latest developments in the tech industry and exploring new tools and technologies. I am also passionate about learning new skills and expanding my knowledge in the field of software engineering.
 
 <!---
 rifkiabd/rifkiabd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
