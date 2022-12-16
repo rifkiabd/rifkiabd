@@ -12,7 +12,7 @@ Skills
 
 Experience
 
-As a software engineer, I have experience in developing and maintaining web applications using various programming languages. I have also worked on improving the search engine rankings of websites through effective SEO strategies.
+As an IT student, I have experience in developing and maintaining web applications using various programming languages. I have also worked on improving the search engine rankings of websites through effective SEO strategies.
 
 Interests
 
